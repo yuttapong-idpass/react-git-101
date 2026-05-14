@@ -18,7 +18,9 @@ function App() {
         </div>
         <div>
           <h1>KUY BOSS</h1>
-          <p>
+          <h1>KUY BOSS</h1>
+          <h1>KUY BOSS</h1>
+          sdfsefdsg
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
         </div>
